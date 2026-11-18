@@ -1,0 +1,1001 @@
+dni,nombres,apellidos,grado,seccion
+70000000,Ana Lucía,Núñez Ríos,3ro,A
+70000001,Alumno1,Apellido1,4to,B
+70000002,Alumno2,Apellido2,5to,A
+70000003,Alumno3,Apellido3,3ro,B
+70000004,Alumno4,Apellido4,4to,A
+70000005,Alumno5,Núñez Ríos,5to,B
+70000006,Alumno6,Apellido6,3ro,A
+70000007,Ana Lucía,Apellido7,4to,B
+70000008,Alumno8,Apellido8,5to,A
+70000009,Alumno9,Apellido9,3ro,B
+70000010,Alumno10,Núñez Ríos,4to,A
+70000011,Alumno11,Apellido11,5to,B
+70000012,Alumno12,Apellido12,3ro,A
+70000013,Alumno13,Apellido13,4to,B
+70000014,Ana Lucía,Apellido14,5to,A
+70000015,Alumno15,Núñez Ríos,3ro,B
+70000016,Alumno16,Apellido16,4to,A
+70000017,Alumno17,Apellido17,5to,B
+70000018,Alumno18,Apellido18,3ro,A
+70000019,Alumno19,Apellido19,4to,B
+70000020,Alumno20,Núñez Ríos,5to,A
+70000021,Ana Lucía,Apellido21,3ro,B
+70000022,Alumno22,Apellido22,4to,A
+70000023,Alumno23,Apellido23,5to,B
+70000024,Alumno24,Apellido24,3ro,A
+70000025,Alumno25,Núñez Ríos,4to,B
+70000026,Alumno26,Apellido26,5to,A
+70000027,Alumno27,Apellido27,3ro,B
+70000028,Ana Lucía,Apellido28,4to,A
+70000029,Alumno29,Apellido29,5to,B
+70000030,Alumno30,Núñez Ríos,3ro,A
+70000031,Alumno31,Apellido31,4to,B
+70000032,Alumno32,Apellido32,5to,A
+70000033,Alumno33,Apellido33,3ro,B
+70000034,Alumno34,Apellido34,4to,A
+70000035,Ana Lucía,Núñez Ríos,5to,B
+70000036,Alumno36,Apellido36,3ro,A
+70000037,Alumno37,Apellido37,4to,B
+70000038,Alumno38,Apellido38,5to,A
+70000039,Alumno39,Apellido39,3ro,B
+70000040,Alumno40,Núñez Ríos,4to,A
+70000041,Alumno41,Apellido41,5to,B
+70000042,Ana Lucía,Apellido42,3ro,A
+70000043,Alumno43,Apellido43,4to,B
+70000044,Alumno44,Apellido44,5to,A
+70000045,Alumno45,Núñez Ríos,3ro,B
+70000046,Alumno46,Apellido46,4to,A
+70000047,Alumno47,Apellido47,5to,B
+70000048,Alumno48,Apellido48,3ro,A
+70000049,Ana Lucía,Apellido49,4to,B
+70000050,Alumno50,Núñez Ríos,5to,A
+70000051,Alumno51,Apellido51,3ro,B
+70000052,Alumno52,Apellido52,4to,A
+70000053,Alumno53,Apellido53,5to,B
+70000054,Alumno54,Apellido54,3ro,A
+70000055,Alumno55,Núñez Ríos,4to,B
+70000056,Ana Lucía,Apellido56,5to,A
+70000057,Alumno57,Apellido57,3ro,B
+70000058,Alumno58,Apellido58,4to,A
+70000059,Alumno59,Apellido59,5to,B
+70000060,Alumno60,Núñez Ríos,3ro,A
+70000061,Alumno61,Apellido61,4to,B
+70000062,Alumno62,Apellido62,5to,A
+70000063,Ana Lucía,Apellido63,3ro,B
+70000064,Alumno64,Apellido64,4to,A
+70000065,Alumno65,Núñez Ríos,5to,B
+70000066,Alumno66,Apellido66,3ro,A
+70000067,Alumno67,Apellido67,4to,B
+70000068,Alumno68,Apellido68,5to,A
+70000069,Alumno69,Apellido69,3ro,B
+70000070,Ana Lucía,Núñez Ríos,4to,A
+70000071,Alumno71,Apellido71,5to,B
+70000072,Alumno72,Apellido72,3ro,A
+70000073,Alumno73,Apellido73,4to,B
+70000074,Alumno74,Apellido74,5to,A
+70000075,Alumno75,Núñez Ríos,3ro,B
+70000076,Alumno76,Apellido76,4to,A
+70000077,Ana Lucía,Apellido77,5to,B
+70000078,Alumno78,Apellido78,3ro,A
+70000079,Alumno79,Apellido79,4to,B
+70000080,Alumno80,Núñez Ríos,5to,A
+70000081,Alumno81,Apellido81,3ro,B
+70000082,Alumno82,Apellido82,4to,A
+70000083,Alumno83,Apellido83,5to,B
+70000084,Ana Lucía,Apellido84,3ro,A
+70000085,Alumno85,Núñez Ríos,4to,B
+70000086,Alumno86,Apellido86,5to,A
+70000087,Alumno87,Apellido87,3ro,B
+70000088,Alumno88,Apellido88,4to,A
+70000089,Alumno89,Apellido89,5to,B
+70000090,Alumno90,Núñez Ríos,3ro,A
+70000091,Ana Lucía,Apellido91,4to,B
+70000092,Alumno92,Apellido92,5to,A
+70000093,Alumno93,Apellido93,3ro,B
+70000094,Alumno94,Apellido94,4to,A
+70000095,Alumno95,Núñez Ríos,5to,B
+70000096,Alumno96,Apellido96,3ro,A
+70000097,Alumno97,Apellido97,4to,B
+70000098,Ana Lucía,Apellido98,5to,A
+70000099,Alumno99,Apellido99,3ro,B
+70000100,Alumno100,Núñez Ríos,4to,A
+70000101,Alumno101,Apellido101,5to,B
+70000102,Alumno102,Apellido102,3ro,A
+70000103,Alumno103,Apellido103,4to,B
+70000104,Alumno104,Apellido104,5to,A
+70000105,Ana Lucía,Núñez Ríos,3ro,B
+70000106,Alumno106,Apellido106,4to,A
+70000107,Alumno107,Apellido107,5to,B
+70000108,Alumno108,Apellido108,3ro,A
+70000109,Alumno109,Apellido109,4to,B
+70000110,Alumno110,Núñez Ríos,5to,A
+70000111,Alumno111,Apellido111,3ro,B
+70000112,Ana Lucía,Apellido112,4to,A
+70000113,Alumno113,Apellido113,5to,B
+70000114,Alumno114,Apellido114,3ro,A
+70000115,Alumno115,Núñez Ríos,4to,B
+70000116,Alumno116,Apellido116,5to,A
+70000117,Alumno117,Apellido117,3ro,B
+70000118,Alumno118,Apellido118,4to,A
+70000119,Ana Lucía,Apellido119,5to,B
+70000120,Alumno120,Núñez Ríos,3ro,A
+70000121,Alumno121,Apellido121,4to,B
+70000122,Alumno122,Apellido122,5to,A
+70000123,Alumno123,Apellido123,3ro,B
+70000124,Alumno124,Apellido124,4to,A
+70000125,Alumno125,Núñez Ríos,5to,B
+70000126,Ana Lucía,Apellido126,3ro,A
+70000127,Alumno127,Apellido127,4to,B
+70000128,Alumno128,Apellido128,5to,A
+70000129,Alumno129,Apellido129,3ro,B
+70000130,Alumno130,Núñez Ríos,4to,A
+70000131,Alumno131,Apellido131,5to,B
+70000132,Alumno132,Apellido132,3ro,A
+70000133,Ana Lucía,Apellido133,4to,B
+70000134,Alumno134,Apellido134,5to,A
+70000135,Alumno135,Núñez Ríos,3ro,B
+70000136,Alumno136,Apellido136,4to,A
+70000137,Alumno137,Apellido137,5to,B
+70000138,Alumno138,Apellido138,3ro,A
+70000139,Alumno139,Apellido139,4to,B
+70000140,Ana Lucía,Núñez Ríos,5to,A
+70000141,Alumno141,Apellido141,3ro,B
+70000142,Alumno142,Apellido142,4to,A
+70000143,Alumno143,Apellido143,5to,B
+70000144,Alumno144,Apellido144,3ro,A
+70000145,Alumno145,Núñez Ríos,4to,B
+70000146,Alumno146,Apellido146,5to,A
+70000147,Ana Lucía,Apellido147,3ro,B
+70000148,Alumno148,Apellido148,4to,A
+70000149,Alumno149,Apellido149,5to,B
+70000150,Alumno150,Núñez Ríos,3ro,A
+70000151,Alumno151,Apellido151,4to,B
+70000152,Alumno152,Apellido152,5to,A
+70000153,Alumno153,Apellido153,3ro,B
+70000154,Ana Lucía,Apellido154,4to,A
+70000155,Alumno155,Núñez Ríos,5to,B
+70000156,Alumno156,Apellido156,3ro,A
+70000157,Alumno157,Apellido157,4to,B
+70000158,Alumno158,Apellido158,5to,A
+70000159,Alumno159,Apellido159,3ro,B
+70000160,Alumno160,Núñez Ríos,4to,A
+70000161,Ana Lucía,Apellido161,5to,B
+70000162,Alumno162,Apellido162,3ro,A
+70000163,Alumno163,Apellido163,4to,B
+70000164,Alumno164,Apellido164,5to,A
+70000165,Alumno165,Núñez Ríos,3ro,B
+70000166,Alumno166,Apellido166,4to,A
+70000167,Alumno167,Apellido167,5to,B
+70000168,Ana Lucía,Apellido168,3ro,A
+70000169,Alumno169,Apellido169,4to,B
+70000170,Alumno170,Núñez Ríos,5to,A
+70000171,Alumno171,Apellido171,3ro,B
+70000172,Alumno172,Apellido172,4to,A
+70000173,Alumno173,Apellido173,5to,B
+70000174,Alumno174,Apellido174,3ro,A
+70000175,Ana Lucía,Núñez Ríos,4to,B
+70000176,Alumno176,Apellido176,5to,A
+70000177,Alumno177,Apellido177,3ro,B
+70000178,Alumno178,Apellido178,4to,A
+70000179,Alumno179,Apellido179,5to,B
+70000180,Alumno180,Núñez Ríos,3ro,A
+70000181,Alumno181,Apellido181,4to,B
+70000182,Ana Lucía,Apellido182,5to,A
+70000183,Alumno183,Apellido183,3ro,B
+70000184,Alumno184,Apellido184,4to,A
+70000185,Alumno185,Núñez Ríos,5to,B
+70000186,Alumno186,Apellido186,3ro,A
+70000187,Alumno187,Apellido187,4to,B
+70000188,Alumno188,Apellido188,5to,A
+70000189,Ana Lucía,Apellido189,3ro,B
+70000190,Alumno190,Núñez Ríos,4to,A
+70000191,Alumno191,Apellido191,5to,B
+70000192,Alumno192,Apellido192,3ro,A
+70000193,Alumno193,Apellido193,4to,B
+70000194,Alumno194,Apellido194,5to,A
+70000195,Alumno195,Núñez Ríos,3ro,B
+70000196,Ana Lucía,Apellido196,4to,A
+70000197,Alumno197,Apellido197,5to,B
+70000198,Alumno198,Apellido198,3ro,A
+70000199,Alumno199,Apellido199,4to,B
+70000200,Alumno200,Núñez Ríos,5to,A
+70000201,Alumno201,Apellido201,3ro,B
+70000202,Alumno202,Apellido202,4to,A
+70000203,Ana Lucía,Apellido203,5to,B
+70000204,Alumno204,Apellido204,3ro,A
+70000205,Alumno205,Núñez Ríos,4to,B
+70000206,Alumno206,Apellido206,5to,A
+70000207,Alumno207,Apellido207,3ro,B
+70000208,Alumno208,Apellido208,4to,A
+70000209,Alumno209,Apellido209,5to,B
+70000210,Ana Lucía,Núñez Ríos,3ro,A
+70000211,Alumno211,Apellido211,4to,B
+70000212,Alumno212,Apellido212,5to,A
+70000213,Alumno213,Apellido213,3ro,B
+70000214,Alumno214,Apellido214,4to,A
+70000215,Alumno215,Núñez Ríos,5to,B
+70000216,Alumno216,Apellido216,3ro,A
+70000217,Ana Lucía,Apellido217,4to,B
+70000218,Alumno218,Apellido218,5to,A
+70000219,Alumno219,Apellido219,3ro,B
+70000220,Alumno220,Núñez Ríos,4to,A
+70000221,Alumno221,Apellido221,5to,B
+70000222,Alumno222,Apellido222,3ro,A
+70000223,Alumno223,Apellido223,4to,B
+70000224,Ana Lucía,Apellido224,5to,A
+70000225,Alumno225,Núñez Ríos,3ro,B
+70000226,Alumno226,Apellido226,4to,A
+70000227,Alumno227,Apellido227,5to,B
+70000228,Alumno228,Apellido228,3ro,A
+70000229,Alumno229,Apellido229,4to,B
+70000230,Alumno230,Núñez Ríos,5to,A
+70000231,Ana Lucía,Apellido231,3ro,B
+70000232,Alumno232,Apellido232,4to,A
+70000233,Alumno233,Apellido233,5to,B
+70000234,Alumno234,Apellido234,3ro,A
+70000235,Alumno235,Núñez Ríos,4to,B
+70000236,Alumno236,Apellido236,5to,A
+70000237,Alumno237,Apellido237,3ro,B
+70000238,Ana Lucía,Apellido238,4to,A
+70000239,Alumno239,Apellido239,5to,B
+70000240,Alumno240,Núñez Ríos,3ro,A
+70000241,Alumno241,Apellido241,4to,B
+70000242,Alumno242,Apellido242,5to,A
+70000243,Alumno243,Apellido243,3ro,B
+70000244,Alumno244,Apellido244,4to,A
+70000245,Ana Lucía,Núñez Ríos,5to,B
+70000246,Alumno246,Apellido246,3ro,A
+70000247,Alumno247,Apellido247,4to,B
+70000248,Alumno248,Apellido248,5to,A
+70000249,Alumno249,Apellido249,3ro,B
+70000250,Alumno250,Núñez Ríos,4to,A
+70000251,Alumno251,Apellido251,5to,B
+70000252,Ana Lucía,Apellido252,3ro,A
+70000253,Alumno253,Apellido253,4to,B
+70000254,Alumno254,Apellido254,5to,A
+70000255,Alumno255,Núñez Ríos,3ro,B
+70000256,Alumno256,Apellido256,4to,A
+70000257,Alumno257,Apellido257,5to,B
+70000258,Alumno258,Apellido258,3ro,A
+70000259,Ana Lucía,Apellido259,4to,B
+70000260,Alumno260,Núñez Ríos,5to,A
+70000261,Alumno261,Apellido261,3ro,B
+70000262,Alumno262,Apellido262,4to,A
+70000263,Alumno263,Apellido263,5to,B
+70000264,Alumno264,Apellido264,3ro,A
+70000265,Alumno265,Núñez Ríos,4to,B
+70000266,Ana Lucía,Apellido266,5to,A
+70000267,Alumno267,Apellido267,3ro,B
+70000268,Alumno268,Apellido268,4to,A
+70000269,Alumno269,Apellido269,5to,B
+70000270,Alumno270,Núñez Ríos,3ro,A
+70000271,Alumno271,Apellido271,4to,B
+70000272,Alumno272,Apellido272,5to,A
+70000273,Ana Lucía,Apellido273,3ro,B
+70000274,Alumno274,Apellido274,4to,A
+70000275,Alumno275,Núñez Ríos,5to,B
+70000276,Alumno276,Apellido276,3ro,A
+70000277,Alumno277,Apellido277,4to,B
+70000278,Alumno278,Apellido278,5to,A
+70000279,Alumno279,Apellido279,3ro,B
+70000280,Ana Lucía,Núñez Ríos,4to,A
+70000281,Alumno281,Apellido281,5to,B
+70000282,Alumno282,Apellido282,3ro,A
+70000283,Alumno283,Apellido283,4to,B
+70000284,Alumno284,Apellido284,5to,A
+70000285,Alumno285,Núñez Ríos,3ro,B
+70000286,Alumno286,Apellido286,4to,A
+70000287,Ana Lucía,Apellido287,5to,B
+70000288,Alumno288,Apellido288,3ro,A
+70000289,Alumno289,Apellido289,4to,B
+70000290,Alumno290,Núñez Ríos,5to,A
+70000291,Alumno291,Apellido291,3ro,B
+70000292,Alumno292,Apellido292,4to,A
+70000293,Alumno293,Apellido293,5to,B
+70000294,Ana Lucía,Apellido294,3ro,A
+70000295,Alumno295,Núñez Ríos,4to,B
+70000296,Alumno296,Apellido296,5to,A
+70000297,Alumno297,Apellido297,3ro,B
+70000298,Alumno298,Apellido298,4to,A
+70000299,Alumno299,Apellido299,5to,B
+70000300,Alumno300,Núñez Ríos,3ro,A
+70000301,Ana Lucía,Apellido301,4to,B
+70000302,Alumno302,Apellido302,5to,A
+70000303,Alumno303,Apellido303,3ro,B
+70000304,Alumno304,Apellido304,4to,A
+70000305,Alumno305,Núñez Ríos,5to,B
+70000306,Alumno306,Apellido306,3ro,A
+70000307,Alumno307,Apellido307,4to,B
+70000308,Ana Lucía,Apellido308,5to,A
+70000309,Alumno309,Apellido309,3ro,B
+70000310,Alumno310,Núñez Ríos,4to,A
+70000311,Alumno311,Apellido311,5to,B
+70000312,Alumno312,Apellido312,3ro,A
+70000313,Alumno313,Apellido313,4to,B
+70000314,Alumno314,Apellido314,5to,A
+70000315,Ana Lucía,Núñez Ríos,3ro,B
+70000316,Alumno316,Apellido316,4to,A
+70000317,Alumno317,Apellido317,5to,B
+70000318,Alumno318,Apellido318,3ro,A
+70000319,Alumno319,Apellido319,4to,B
+70000320,Alumno320,Núñez Ríos,5to,A
+70000321,Alumno321,Apellido321,3ro,B
+70000322,Ana Lucía,Apellido322,4to,A
+70000323,Alumno323,Apellido323,5to,B
+70000324,Alumno324,Apellido324,3ro,A
+70000325,Alumno325,Núñez Ríos,4to,B
+70000326,Alumno326,Apellido326,5to,A
+70000327,Alumno327,Apellido327,3ro,B
+70000328,Alumno328,Apellido328,4to,A
+70000329,Ana Lucía,Apellido329,5to,B
+70000330,Alumno330,Núñez Ríos,3ro,A
+70000331,Alumno331,Apellido331,4to,B
+70000332,Alumno332,Apellido332,5to,A
+70000333,Alumno333,Apellido333,3ro,B
+70000334,Alumno334,Apellido334,4to,A
+70000335,Alumno335,Núñez Ríos,5to,B
+70000336,Ana Lucía,Apellido336,3ro,A
+70000337,Alumno337,Apellido337,4to,B
+70000338,Alumno338,Apellido338,5to,A
+70000339,Alumno339,Apellido339,3ro,B
+70000340,Alumno340,Núñez Ríos,4to,A
+70000341,Alumno341,Apellido341,5to,B
+70000342,Alumno342,Apellido342,3ro,A
+70000343,Ana Lucía,Apellido343,4to,B
+70000344,Alumno344,Apellido344,5to,A
+70000345,Alumno345,Núñez Ríos,3ro,B
+70000346,Alumno346,Apellido346,4to,A
+70000347,Alumno347,Apellido347,5to,B
+70000348,Alumno348,Apellido348,3ro,A
+70000349,Alumno349,Apellido349,4to,B
+70000350,Ana Lucía,Núñez Ríos,5to,A
+70000351,Alumno351,Apellido351,3ro,B
+70000352,Alumno352,Apellido352,4to,A
+70000353,Alumno353,Apellido353,5to,B
+70000354,Alumno354,Apellido354,3ro,A
+70000355,Alumno355,Núñez Ríos,4to,B
+70000356,Alumno356,Apellido356,5to,A
+70000357,Ana Lucía,Apellido357,3ro,B
+70000358,Alumno358,Apellido358,4to,A
+70000359,Alumno359,Apellido359,5to,B
+70000360,Alumno360,Núñez Ríos,3ro,A
+70000361,Alumno361,Apellido361,4to,B
+70000362,Alumno362,Apellido362,5to,A
+70000363,Alumno363,Apellido363,3ro,B
+70000364,Ana Lucía,Apellido364,4to,A
+70000365,Alumno365,Núñez Ríos,5to,B
+70000366,Alumno366,Apellido366,3ro,A
+70000367,Alumno367,Apellido367,4to,B
+70000368,Alumno368,Apellido368,5to,A
+70000369,Alumno369,Apellido369,3ro,B
+70000370,Alumno370,Núñez Ríos,4to,A
+70000371,Ana Lucía,Apellido371,5to,B
+70000372,Alumno372,Apellido372,3ro,A
+70000373,Alumno373,Apellido373,4to,B
+70000374,Alumno374,Apellido374,5to,A
+70000375,Alumno375,Núñez Ríos,3ro,B
+70000376,Alumno376,Apellido376,4to,A
+70000377,Alumno377,Apellido377,5to,B
+70000378,Ana Lucía,Apellido378,3ro,A
+70000379,Alumno379,Apellido379,4to,B
+70000380,Alumno380,Núñez Ríos,5to,A
+70000381,Alumno381,Apellido381,3ro,B
+70000382,Alumno382,Apellido382,4to,A
+70000383,Alumno383,Apellido383,5to,B
+70000384,Alumno384,Apellido384,3ro,A
+70000385,Ana Lucía,Núñez Ríos,4to,B
+70000386,Alumno386,Apellido386,5to,A
+70000387,Alumno387,Apellido387,3ro,B
+70000388,Alumno388,Apellido388,4to,A
+70000389,Alumno389,Apellido389,5to,B
+70000390,Alumno390,Núñez Ríos,3ro,A
+70000391,Alumno391,Apellido391,4to,B
+70000392,Ana Lucía,Apellido392,5to,A
+70000393,Alumno393,Apellido393,3ro,B
+70000394,Alumno394,Apellido394,4to,A
+70000395,Alumno395,Núñez Ríos,5to,B
+70000396,Alumno396,Apellido396,3ro,A
+70000397,Alumno397,Apellido397,4to,B
+70000398,Alumno398,Apellido398,5to,A
+70000399,Ana Lucía,Apellido399,3ro,B
+70000400,Alumno400,Núñez Ríos,4to,A
+70000401,Alumno401,Apellido401,5to,B
+70000402,Alumno402,Apellido402,3ro,A
+70000403,Alumno403,Apellido403,4to,B
+70000404,Alumno404,Apellido404,5to,A
+70000405,Alumno405,Núñez Ríos,3ro,B
+70000406,Ana Lucía,Apellido406,4to,A
+70000407,Alumno407,Apellido407,5to,B
+70000408,Alumno408,Apellido408,3ro,A
+70000409,Alumno409,Apellido409,4to,B
+70000410,Alumno410,Núñez Ríos,5to,A
+70000411,Alumno411,Apellido411,3ro,B
+70000412,Alumno412,Apellido412,4to,A
+70000413,Ana Lucía,Apellido413,5to,B
+70000414,Alumno414,Apellido414,3ro,A
+70000415,Alumno415,Núñez Ríos,4to,B
+70000416,Alumno416,Apellido416,5to,A
+70000417,Alumno417,Apellido417,3ro,B
+70000418,Alumno418,Apellido418,4to,A
+70000419,Alumno419,Apellido419,5to,B
+70000420,Ana Lucía,Núñez Ríos,3ro,A
+70000421,Alumno421,Apellido421,4to,B
+70000422,Alumno422,Apellido422,5to,A
+70000423,Alumno423,Apellido423,3ro,B
+70000424,Alumno424,Apellido424,4to,A
+70000425,Alumno425,Núñez Ríos,5to,B
+70000426,Alumno426,Apellido426,3ro,A
+70000427,Ana Lucía,Apellido427,4to,B
+70000428,Alumno428,Apellido428,5to,A
+70000429,Alumno429,Apellido429,3ro,B
+70000430,Alumno430,Núñez Ríos,4to,A
+70000431,Alumno431,Apellido431,5to,B
+70000432,Alumno432,Apellido432,3ro,A
+70000433,Alumno433,Apellido433,4to,B
+70000434,Ana Lucía,Apellido434,5to,A
+70000435,Alumno435,Núñez Ríos,3ro,B
+70000436,Alumno436,Apellido436,4to,A
+70000437,Alumno437,Apellido437,5to,B
+70000438,Alumno438,Apellido438,3ro,A
+70000439,Alumno439,Apellido439,4to,B
+70000440,Alumno440,Núñez Ríos,5to,A
+70000441,Ana Lucía,Apellido441,3ro,B
+70000442,Alumno442,Apellido442,4to,A
+70000443,Alumno443,Apellido443,5to,B
+70000444,Alumno444,Apellido444,3ro,A
+70000445,Alumno445,Núñez Ríos,4to,B
+70000446,Alumno446,Apellido446,5to,A
+70000447,Alumno447,Apellido447,3ro,B
+70000448,Ana Lucía,Apellido448,4to,A
+70000449,Alumno449,Apellido449,5to,B
+70000450,Alumno450,Núñez Ríos,3ro,A
+70000451,Alumno451,Apellido451,4to,B
+70000452,Alumno452,Apellido452,5to,A
+70000453,Alumno453,Apellido453,3ro,B
+70000454,Alumno454,Apellido454,4to,A
+70000455,Ana Lucía,Núñez Ríos,5to,B
+70000456,Alumno456,Apellido456,3ro,A
+70000457,Alumno457,Apellido457,4to,B
+70000458,Alumno458,Apellido458,5to,A
+70000459,Alumno459,Apellido459,3ro,B
+70000460,Alumno460,Núñez Ríos,4to,A
+70000461,Alumno461,Apellido461,5to,B
+70000462,Ana Lucía,Apellido462,3ro,A
+70000463,Alumno463,Apellido463,4to,B
+70000464,Alumno464,Apellido464,5to,A
+70000465,Alumno465,Núñez Ríos,3ro,B
+70000466,Alumno466,Apellido466,4to,A
+70000467,Alumno467,Apellido467,5to,B
+70000468,Alumno468,Apellido468,3ro,A
+70000469,Ana Lucía,Apellido469,4to,B
+70000470,Alumno470,Núñez Ríos,5to,A
+70000471,Alumno471,Apellido471,3ro,B
+70000472,Alumno472,Apellido472,4to,A
+70000473,Alumno473,Apellido473,5to,B
+70000474,Alumno474,Apellido474,3ro,A
+70000475,Alumno475,Núñez Ríos,4to,B
+70000476,Ana Lucía,Apellido476,5to,A
+70000477,Alumno477,Apellido477,3ro,B
+70000478,Alumno478,Apellido478,4to,A
+70000479,Alumno479,Apellido479,5to,B
+70000480,Alumno480,Núñez Ríos,3ro,A
+70000481,Alumno481,Apellido481,4to,B
+70000482,Alumno482,Apellido482,5to,A
+70000483,Ana Lucía,Apellido483,3ro,B
+70000484,Alumno484,Apellido484,4to,A
+70000485,Alumno485,Núñez Ríos,5to,B
+70000486,Alumno486,Apellido486,3ro,A
+70000487,Alumno487,Apellido487,4to,B
+70000488,Alumno488,Apellido488,5to,A
+70000489,Alumno489,Apellido489,3ro,B
+70000490,Ana Lucía,Núñez Ríos,4to,A
+70000491,Alumno491,Apellido491,5to,B
+70000492,Alumno492,Apellido492,3ro,A
+70000493,Alumno493,Apellido493,4to,B
+70000494,Alumno494,Apellido494,5to,A
+70000495,Alumno495,Núñez Ríos,3ro,B
+70000496,Alumno496,Apellido496,4to,A
+70000497,Ana Lucía,Apellido497,5to,B
+70000498,Alumno498,Apellido498,3ro,A
+70000499,Alumno499,Apellido499,4to,B
+70000500,Alumno500,Núñez Ríos,5to,A
+70000501,Alumno501,Apellido501,3ro,B
+70000502,Alumno502,Apellido502,4to,A
+70000503,Alumno503,Apellido503,5to,B
+70000504,Ana Lucía,Apellido504,3ro,A
+70000505,Alumno505,Núñez Ríos,4to,B
+70000506,Alumno506,Apellido506,5to,A
+70000507,Alumno507,Apellido507,3ro,B
+70000508,Alumno508,Apellido508,4to,A
+70000509,Alumno509,Apellido509,5to,B
+70000510,Alumno510,Núñez Ríos,3ro,A
+70000511,Ana Lucía,Apellido511,4to,B
+70000512,Alumno512,Apellido512,5to,A
+70000513,Alumno513,Apellido513,3ro,B
+70000514,Alumno514,Apellido514,4to,A
+70000515,Alumno515,Núñez Ríos,5to,B
+70000516,Alumno516,Apellido516,3ro,A
+70000517,Alumno517,Apellido517,4to,B
+70000518,Ana Lucía,Apellido518,5to,A
+70000519,Alumno519,Apellido519,3ro,B
+70000520,Alumno520,Núñez Ríos,4to,A
+70000521,Alumno521,Apellido521,5to,B
+70000522,Alumno522,Apellido522,3ro,A
+70000523,Alumno523,Apellido523,4to,B
+70000524,Alumno524,Apellido524,5to,A
+70000525,Ana Lucía,Núñez Ríos,3ro,B
+70000526,Alumno526,Apellido526,4to,A
+70000527,Alumno527,Apellido527,5to,B
+70000528,Alumno528,Apellido528,3ro,A
+70000529,Alumno529,Apellido529,4to,B
+70000530,Alumno530,Núñez Ríos,5to,A
+70000531,Alumno531,Apellido531,3ro,B
+70000532,Ana Lucía,Apellido532,4to,A
+70000533,Alumno533,Apellido533,5to,B
+70000534,Alumno534,Apellido534,3ro,A
+70000535,Alumno535,Núñez Ríos,4to,B
+70000536,Alumno536,Apellido536,5to,A
+70000537,Alumno537,Apellido537,3ro,B
+70000538,Alumno538,Apellido538,4to,A
+70000539,Ana Lucía,Apellido539,5to,B
+70000540,Alumno540,Núñez Ríos,3ro,A
+70000541,Alumno541,Apellido541,4to,B
+70000542,Alumno542,Apellido542,5to,A
+70000543,Alumno543,Apellido543,3ro,B
+70000544,Alumno544,Apellido544,4to,A
+70000545,Alumno545,Núñez Ríos,5to,B
+70000546,Ana Lucía,Apellido546,3ro,A
+70000547,Alumno547,Apellido547,4to,B
+70000548,Alumno548,Apellido548,5to,A
+70000549,Alumno549,Apellido549,3ro,B
+70000550,Alumno550,Núñez Ríos,4to,A
+70000551,Alumno551,Apellido551,5to,B
+70000552,Alumno552,Apellido552,3ro,A
+70000553,Ana Lucía,Apellido553,4to,B
+70000554,Alumno554,Apellido554,5to,A
+70000555,Alumno555,Núñez Ríos,3ro,B
+70000556,Alumno556,Apellido556,4to,A
+70000557,Alumno557,Apellido557,5to,B
+70000558,Alumno558,Apellido558,3ro,A
+70000559,Alumno559,Apellido559,4to,B
+70000560,Ana Lucía,Núñez Ríos,5to,A
+70000561,Alumno561,Apellido561,3ro,B
+70000562,Alumno562,Apellido562,4to,A
+70000563,Alumno563,Apellido563,5to,B
+70000564,Alumno564,Apellido564,3ro,A
+70000565,Alumno565,Núñez Ríos,4to,B
+70000566,Alumno566,Apellido566,5to,A
+70000567,Ana Lucía,Apellido567,3ro,B
+70000568,Alumno568,Apellido568,4to,A
+70000569,Alumno569,Apellido569,5to,B
+70000570,Alumno570,Núñez Ríos,3ro,A
+70000571,Alumno571,Apellido571,4to,B
+70000572,Alumno572,Apellido572,5to,A
+70000573,Alumno573,Apellido573,3ro,B
+70000574,Ana Lucía,Apellido574,4to,A
+70000575,Alumno575,Núñez Ríos,5to,B
+70000576,Alumno576,Apellido576,3ro,A
+70000577,Alumno577,Apellido577,4to,B
+70000578,Alumno578,Apellido578,5to,A
+70000579,Alumno579,Apellido579,3ro,B
+70000580,Alumno580,Núñez Ríos,4to,A
+70000581,Ana Lucía,Apellido581,5to,B
+70000582,Alumno582,Apellido582,3ro,A
+70000583,Alumno583,Apellido583,4to,B
+70000584,Alumno584,Apellido584,5to,A
+70000585,Alumno585,Núñez Ríos,3ro,B
+70000586,Alumno586,Apellido586,4to,A
+70000587,Alumno587,Apellido587,5to,B
+70000588,Ana Lucía,Apellido588,3ro,A
+70000589,Alumno589,Apellido589,4to,B
+70000590,Alumno590,Núñez Ríos,5to,A
+70000591,Alumno591,Apellido591,3ro,B
+70000592,Alumno592,Apellido592,4to,A
+70000593,Alumno593,Apellido593,5to,B
+70000594,Alumno594,Apellido594,3ro,A
+70000595,Ana Lucía,Núñez Ríos,4to,B
+70000596,Alumno596,Apellido596,5to,A
+70000597,Alumno597,Apellido597,3ro,B
+70000598,Alumno598,Apellido598,4to,A
+70000599,Alumno599,Apellido599,5to,B
+70000600,Alumno600,Núñez Ríos,3ro,A
+70000601,Alumno601,Apellido601,4to,B
+70000602,Ana Lucía,Apellido602,5to,A
+70000603,Alumno603,Apellido603,3ro,B
+70000604,Alumno604,Apellido604,4to,A
+70000605,Alumno605,Núñez Ríos,5to,B
+70000606,Alumno606,Apellido606,3ro,A
+70000607,Alumno607,Apellido607,4to,B
+70000608,Alumno608,Apellido608,5to,A
+70000609,Ana Lucía,Apellido609,3ro,B
+70000610,Alumno610,Núñez Ríos,4to,A
+70000611,Alumno611,Apellido611,5to,B
+70000612,Alumno612,Apellido612,3ro,A
+70000613,Alumno613,Apellido613,4to,B
+70000614,Alumno614,Apellido614,5to,A
+70000615,Alumno615,Núñez Ríos,3ro,B
+70000616,Ana Lucía,Apellido616,4to,A
+70000617,Alumno617,Apellido617,5to,B
+70000618,Alumno618,Apellido618,3ro,A
+70000619,Alumno619,Apellido619,4to,B
+70000620,Alumno620,Núñez Ríos,5to,A
+70000621,Alumno621,Apellido621,3ro,B
+70000622,Alumno622,Apellido622,4to,A
+70000623,Ana Lucía,Apellido623,5to,B
+70000624,Alumno624,Apellido624,3ro,A
+70000625,Alumno625,Núñez Ríos,4to,B
+70000626,Alumno626,Apellido626,5to,A
+70000627,Alumno627,Apellido627,3ro,B
+70000628,Alumno628,Apellido628,4to,A
+70000629,Alumno629,Apellido629,5to,B
+70000630,Ana Lucía,Núñez Ríos,3ro,A
+70000631,Alumno631,Apellido631,4to,B
+70000632,Alumno632,Apellido632,5to,A
+70000633,Alumno633,Apellido633,3ro,B
+70000634,Alumno634,Apellido634,4to,A
+70000635,Alumno635,Núñez Ríos,5to,B
+70000636,Alumno636,Apellido636,3ro,A
+70000637,Ana Lucía,Apellido637,4to,B
+70000638,Alumno638,Apellido638,5to,A
+70000639,Alumno639,Apellido639,3ro,B
+70000640,Alumno640,Núñez Ríos,4to,A
+70000641,Alumno641,Apellido641,5to,B
+70000642,Alumno642,Apellido642,3ro,A
+70000643,Alumno643,Apellido643,4to,B
+70000644,Ana Lucía,Apellido644,5to,A
+70000645,Alumno645,Núñez Ríos,3ro,B
+70000646,Alumno646,Apellido646,4to,A
+70000647,Alumno647,Apellido647,5to,B
+70000648,Alumno648,Apellido648,3ro,A
+70000649,Alumno649,Apellido649,4to,B
+70000650,Alumno650,Núñez Ríos,5to,A
+70000651,Ana Lucía,Apellido651,3ro,B
+70000652,Alumno652,Apellido652,4to,A
+70000653,Alumno653,Apellido653,5to,B
+70000654,Alumno654,Apellido654,3ro,A
+70000655,Alumno655,Núñez Ríos,4to,B
+70000656,Alumno656,Apellido656,5to,A
+70000657,Alumno657,Apellido657,3ro,B
+70000658,Ana Lucía,Apellido658,4to,A
+70000659,Alumno659,Apellido659,5to,B
+70000660,Alumno660,Núñez Ríos,3ro,A
+70000661,Alumno661,Apellido661,4to,B
+70000662,Alumno662,Apellido662,5to,A
+70000663,Alumno663,Apellido663,3ro,B
+70000664,Alumno664,Apellido664,4to,A
+70000665,Ana Lucía,Núñez Ríos,5to,B
+70000666,Alumno666,Apellido666,3ro,A
+70000667,Alumno667,Apellido667,4to,B
+70000668,Alumno668,Apellido668,5to,A
+70000669,Alumno669,Apellido669,3ro,B
+70000670,Alumno670,Núñez Ríos,4to,A
+70000671,Alumno671,Apellido671,5to,B
+70000672,Ana Lucía,Apellido672,3ro,A
+70000673,Alumno673,Apellido673,4to,B
+70000674,Alumno674,Apellido674,5to,A
+70000675,Alumno675,Núñez Ríos,3ro,B
+70000676,Alumno676,Apellido676,4to,A
+70000677,Alumno677,Apellido677,5to,B
+70000678,Alumno678,Apellido678,3ro,A
+70000679,Ana Lucía,Apellido679,4to,B
+70000680,Alumno680,Núñez Ríos,5to,A
+70000681,Alumno681,Apellido681,3ro,B
+70000682,Alumno682,Apellido682,4to,A
+70000683,Alumno683,Apellido683,5to,B
+70000684,Alumno684,Apellido684,3ro,A
+70000685,Alumno685,Núñez Ríos,4to,B
+70000686,Ana Lucía,Apellido686,5to,A
+70000687,Alumno687,Apellido687,3ro,B
+70000688,Alumno688,Apellido688,4to,A
+70000689,Alumno689,Apellido689,5to,B
+70000690,Alumno690,Núñez Ríos,3ro,A
+70000691,Alumno691,Apellido691,4to,B
+70000692,Alumno692,Apellido692,5to,A
+70000693,Ana Lucía,Apellido693,3ro,B
+70000694,Alumno694,Apellido694,4to,A
+70000695,Alumno695,Núñez Ríos,5to,B
+70000696,Alumno696,Apellido696,3ro,A
+70000697,Alumno697,Apellido697,4to,B
+70000698,Alumno698,Apellido698,5to,A
+70000699,Alumno699,Apellido699,3ro,B
+70000700,Ana Lucía,Núñez Ríos,4to,A
+70000701,Alumno701,Apellido701,5to,B
+70000702,Alumno702,Apellido702,3ro,A
+70000703,Alumno703,Apellido703,4to,B
+70000704,Alumno704,Apellido704,5to,A
+70000705,Alumno705,Núñez Ríos,3ro,B
+70000706,Alumno706,Apellido706,4to,A
+70000707,Ana Lucía,Apellido707,5to,B
+70000708,Alumno708,Apellido708,3ro,A
+70000709,Alumno709,Apellido709,4to,B
+70000710,Alumno710,Núñez Ríos,5to,A
+70000711,Alumno711,Apellido711,3ro,B
+70000712,Alumno712,Apellido712,4to,A
+70000713,Alumno713,Apellido713,5to,B
+70000714,Ana Lucía,Apellido714,3ro,A
+70000715,Alumno715,Núñez Ríos,4to,B
+70000716,Alumno716,Apellido716,5to,A
+70000717,Alumno717,Apellido717,3ro,B
+70000718,Alumno718,Apellido718,4to,A
+70000719,Alumno719,Apellido719,5to,B
+70000720,Alumno720,Núñez Ríos,3ro,A
+70000721,Ana Lucía,Apellido721,4to,B
+70000722,Alumno722,Apellido722,5to,A
+70000723,Alumno723,Apellido723,3ro,B
+70000724,Alumno724,Apellido724,4to,A
+70000725,Alumno725,Núñez Ríos,5to,B
+70000726,Alumno726,Apellido726,3ro,A
+70000727,Alumno727,Apellido727,4to,B
+70000728,Ana Lucía,Apellido728,5to,A
+70000729,Alumno729,Apellido729,3ro,B
+70000730,Alumno730,Núñez Ríos,4to,A
+70000731,Alumno731,Apellido731,5to,B
+70000732,Alumno732,Apellido732,3ro,A
+70000733,Alumno733,Apellido733,4to,B
+70000734,Alumno734,Apellido734,5to,A
+70000735,Ana Lucía,Núñez Ríos,3ro,B
+70000736,Alumno736,Apellido736,4to,A
+70000737,Alumno737,Apellido737,5to,B
+70000738,Alumno738,Apellido738,3ro,A
+70000739,Alumno739,Apellido739,4to,B
+70000740,Alumno740,Núñez Ríos,5to,A
+70000741,Alumno741,Apellido741,3ro,B
+70000742,Ana Lucía,Apellido742,4to,A
+70000743,Alumno743,Apellido743,5to,B
+70000744,Alumno744,Apellido744,3ro,A
+70000745,Alumno745,Núñez Ríos,4to,B
+70000746,Alumno746,Apellido746,5to,A
+70000747,Alumno747,Apellido747,3ro,B
+70000748,Alumno748,Apellido748,4to,A
+70000749,Ana Lucía,Apellido749,5to,B
+70000750,Alumno750,Núñez Ríos,3ro,A
+70000751,Alumno751,Apellido751,4to,B
+70000752,Alumno752,Apellido752,5to,A
+70000753,Alumno753,Apellido753,3ro,B
+70000754,Alumno754,Apellido754,4to,A
+70000755,Alumno755,Núñez Ríos,5to,B
+70000756,Ana Lucía,Apellido756,3ro,A
+70000757,Alumno757,Apellido757,4to,B
+70000758,Alumno758,Apellido758,5to,A
+70000759,Alumno759,Apellido759,3ro,B
+70000760,Alumno760,Núñez Ríos,4to,A
+70000761,Alumno761,Apellido761,5to,B
+70000762,Alumno762,Apellido762,3ro,A
+70000763,Ana Lucía,Apellido763,4to,B
+70000764,Alumno764,Apellido764,5to,A
+70000765,Alumno765,Núñez Ríos,3ro,B
+70000766,Alumno766,Apellido766,4to,A
+70000767,Alumno767,Apellido767,5to,B
+70000768,Alumno768,Apellido768,3ro,A
+70000769,Alumno769,Apellido769,4to,B
+70000770,Ana Lucía,Núñez Ríos,5to,A
+70000771,Alumno771,Apellido771,3ro,B
+70000772,Alumno772,Apellido772,4to,A
+70000773,Alumno773,Apellido773,5to,B
+70000774,Alumno774,Apellido774,3ro,A
+70000775,Alumno775,Núñez Ríos,4to,B
+70000776,Alumno776,Apellido776,5to,A
+70000777,Ana Lucía,Apellido777,3ro,B
+70000778,Alumno778,Apellido778,4to,A
+70000779,Alumno779,Apellido779,5to,B
+70000780,Alumno780,Núñez Ríos,3ro,A
+70000781,Alumno781,Apellido781,4to,B
+70000782,Alumno782,Apellido782,5to,A
+70000783,Alumno783,Apellido783,3ro,B
+70000784,Ana Lucía,Apellido784,4to,A
+70000785,Alumno785,Núñez Ríos,5to,B
+70000786,Alumno786,Apellido786,3ro,A
+70000787,Alumno787,Apellido787,4to,B
+70000788,Alumno788,Apellido788,5to,A
+70000789,Alumno789,Apellido789,3ro,B
+70000790,Alumno790,Núñez Ríos,4to,A
+70000791,Ana Lucía,Apellido791,5to,B
+70000792,Alumno792,Apellido792,3ro,A
+70000793,Alumno793,Apellido793,4to,B
+70000794,Alumno794,Apellido794,5to,A
+70000795,Alumno795,Núñez Ríos,3ro,B
+70000796,Alumno796,Apellido796,4to,A
+70000797,Alumno797,Apellido797,5to,B
+70000798,Ana Lucía,Apellido798,3ro,A
+70000799,Alumno799,Apellido799,4to,B
+70000800,Alumno800,Núñez Ríos,5to,A
+70000801,Alumno801,Apellido801,3ro,B
+70000802,Alumno802,Apellido802,4to,A
+70000803,Alumno803,Apellido803,5to,B
+70000804,Alumno804,Apellido804,3ro,A
+70000805,Ana Lucía,Núñez Ríos,4to,B
+70000806,Alumno806,Apellido806,5to,A
+70000807,Alumno807,Apellido807,3ro,B
+70000808,Alumno808,Apellido808,4to,A
+70000809,Alumno809,Apellido809,5to,B
+70000810,Alumno810,Núñez Ríos,3ro,A
+70000811,Alumno811,Apellido811,4to,B
+70000812,Ana Lucía,Apellido812,5to,A
+70000813,Alumno813,Apellido813,3ro,B
+70000814,Alumno814,Apellido814,4to,A
+70000815,Alumno815,Núñez Ríos,5to,B
+70000816,Alumno816,Apellido816,3ro,A
+70000817,Alumno817,Apellido817,4to,B
+70000818,Alumno818,Apellido818,5to,A
+70000819,Ana Lucía,Apellido819,3ro,B
+70000820,Alumno820,Núñez Ríos,4to,A
+70000821,Alumno821,Apellido821,5to,B
+70000822,Alumno822,Apellido822,3ro,A
+70000823,Alumno823,Apellido823,4to,B
+70000824,Alumno824,Apellido824,5to,A
+70000825,Alumno825,Núñez Ríos,3ro,B
+70000826,Ana Lucía,Apellido826,4to,A
+70000827,Alumno827,Apellido827,5to,B
+70000828,Alumno828,Apellido828,3ro,A
+70000829,Alumno829,Apellido829,4to,B
+70000830,Alumno830,Núñez Ríos,5to,A
+70000831,Alumno831,Apellido831,3ro,B
+70000832,Alumno832,Apellido832,4to,A
+70000833,Ana Lucía,Apellido833,5to,B
+70000834,Alumno834,Apellido834,3ro,A
+70000835,Alumno835,Núñez Ríos,4to,B
+70000836,Alumno836,Apellido836,5to,A
+70000837,Alumno837,Apellido837,3ro,B
+70000838,Alumno838,Apellido838,4to,A
+70000839,Alumno839,Apellido839,5to,B
+70000840,Ana Lucía,Núñez Ríos,3ro,A
+70000841,Alumno841,Apellido841,4to,B
+70000842,Alumno842,Apellido842,5to,A
+70000843,Alumno843,Apellido843,3ro,B
+70000844,Alumno844,Apellido844,4to,A
+70000845,Alumno845,Núñez Ríos,5to,B
+70000846,Alumno846,Apellido846,3ro,A
+70000847,Ana Lucía,Apellido847,4to,B
+70000848,Alumno848,Apellido848,5to,A
+70000849,Alumno849,Apellido849,3ro,B
+70000850,Alumno850,Núñez Ríos,4to,A
+70000851,Alumno851,Apellido851,5to,B
+70000852,Alumno852,Apellido852,3ro,A
+70000853,Alumno853,Apellido853,4to,B
+70000854,Ana Lucía,Apellido854,5to,A
+70000855,Alumno855,Núñez Ríos,3ro,B
+70000856,Alumno856,Apellido856,4to,A
+70000857,Alumno857,Apellido857,5to,B
+70000858,Alumno858,Apellido858,3ro,A
+70000859,Alumno859,Apellido859,4to,B
+70000860,Alumno860,Núñez Ríos,5to,A
+70000861,Ana Lucía,Apellido861,3ro,B
+70000862,Alumno862,Apellido862,4to,A
+70000863,Alumno863,Apellido863,5to,B
+70000864,Alumno864,Apellido864,3ro,A
+70000865,Alumno865,Núñez Ríos,4to,B
+70000866,Alumno866,Apellido866,5to,A
+70000867,Alumno867,Apellido867,3ro,B
+70000868,Ana Lucía,Apellido868,4to,A
+70000869,Alumno869,Apellido869,5to,B
+70000870,Alumno870,Núñez Ríos,3ro,A
+70000871,Alumno871,Apellido871,4to,B
+70000872,Alumno872,Apellido872,5to,A
+70000873,Alumno873,Apellido873,3ro,B
+70000874,Alumno874,Apellido874,4to,A
+70000875,Ana Lucía,Núñez Ríos,5to,B
+70000876,Alumno876,Apellido876,3ro,A
+70000877,Alumno877,Apellido877,4to,B
+70000878,Alumno878,Apellido878,5to,A
+70000879,Alumno879,Apellido879,3ro,B
+70000880,Alumno880,Núñez Ríos,4to,A
+70000881,Alumno881,Apellido881,5to,B
+70000882,Ana Lucía,Apellido882,3ro,A
+70000883,Alumno883,Apellido883,4to,B
+70000884,Alumno884,Apellido884,5to,A
+70000885,Alumno885,Núñez Ríos,3ro,B
+70000886,Alumno886,Apellido886,4to,A
+70000887,Alumno887,Apellido887,5to,B
+70000888,Alumno888,Apellido888,3ro,A
+70000889,Ana Lucía,Apellido889,4to,B
+70000890,Alumno890,Núñez Ríos,5to,A
+70000891,Alumno891,Apellido891,3ro,B
+70000892,Alumno892,Apellido892,4to,A
+70000893,Alumno893,Apellido893,5to,B
+70000894,Alumno894,Apellido894,3ro,A
+70000895,Alumno895,Núñez Ríos,4to,B
+70000896,Ana Lucía,Apellido896,5to,A
+70000897,Alumno897,Apellido897,3ro,B
+70000898,Alumno898,Apellido898,4to,A
+70000899,Alumno899,Apellido899,5to,B
+70000900,Alumno900,Núñez Ríos,3ro,A
+70000901,Alumno901,Apellido901,4to,B
+70000902,Alumno902,Apellido902,5to,A
+70000903,Ana Lucía,Apellido903,3ro,B
+70000904,Alumno904,Apellido904,4to,A
+70000905,Alumno905,Núñez Ríos,5to,B
+70000906,Alumno906,Apellido906,3ro,A
+70000907,Alumno907,Apellido907,4to,B
+70000908,Alumno908,Apellido908,5to,A
+70000909,Alumno909,Apellido909,3ro,B
+70000910,Ana Lucía,Núñez Ríos,4to,A
+70000911,Alumno911,Apellido911,5to,B
+70000912,Alumno912,Apellido912,3ro,A
+70000913,Alumno913,Apellido913,4to,B
+70000914,Alumno914,Apellido914,5to,A
+70000915,Alumno915,Núñez Ríos,3ro,B
+70000916,Alumno916,Apellido916,4to,A
+70000917,Ana Lucía,Apellido917,5to,B
+70000918,Alumno918,Apellido918,3ro,A
+70000919,Alumno919,Apellido919,4to,B
+70000920,Alumno920,Núñez Ríos,5to,A
+70000921,Alumno921,Apellido921,3ro,B
+70000922,Alumno922,Apellido922,4to,A
+70000923,Alumno923,Apellido923,5to,B
+70000924,Ana Lucía,Apellido924,3ro,A
+70000925,Alumno925,Núñez Ríos,4to,B
+70000926,Alumno926,Apellido926,5to,A
+70000927,Alumno927,Apellido927,3ro,B
+70000928,Alumno928,Apellido928,4to,A
+70000929,Alumno929,Apellido929,5to,B
+70000930,Alumno930,Núñez Ríos,3ro,A
+70000931,Ana Lucía,Apellido931,4to,B
+70000932,Alumno932,Apellido932,5to,A
+70000933,Alumno933,Apellido933,3ro,B
+70000934,Alumno934,Apellido934,4to,A
+70000935,Alumno935,Núñez Ríos,5to,B
+70000936,Alumno936,Apellido936,3ro,A
+70000937,Alumno937,Apellido937,4to,B
+70000938,Ana Lucía,Apellido938,5to,A
+70000939,Alumno939,Apellido939,3ro,B
+70000940,Alumno940,Núñez Ríos,4to,A
+70000941,Alumno941,Apellido941,5to,B
+70000942,Alumno942,Apellido942,3ro,A
+70000943,Alumno943,Apellido943,4to,B
+70000944,Alumno944,Apellido944,5to,A
+70000945,Ana Lucía,Núñez Ríos,3ro,B
+70000946,Alumno946,Apellido946,4to,A
+70000947,Alumno947,Apellido947,5to,B
+70000948,Alumno948,Apellido948,3ro,A
+70000949,Alumno949,Apellido949,4to,B
+70000950,Alumno950,Núñez Ríos,5to,A
+70000951,Alumno951,Apellido951,3ro,B
+70000952,Ana Lucía,Apellido952,4to,A
+70000953,Alumno953,Apellido953,5to,B
+70000954,Alumno954,Apellido954,3ro,A
+70000955,Alumno955,Núñez Ríos,4to,B
+70000956,Alumno956,Apellido956,5to,A
+70000957,Alumno957,Apellido957,3ro,B
+70000958,Alumno958,Apellido958,4to,A
+70000959,Ana Lucía,Apellido959,5to,B
+70000960,Alumno960,Núñez Ríos,3ro,A
+70000961,Alumno961,Apellido961,4to,B
+70000962,Alumno962,Apellido962,5to,A
+70000963,Alumno963,Apellido963,3ro,B
+70000964,Alumno964,Apellido964,4to,A
+70000965,Alumno965,Núñez Ríos,5to,B
+70000966,Ana Lucía,Apellido966,3ro,A
+70000967,Alumno967,Apellido967,4to,B
+70000968,Alumno968,Apellido968,5to,A
+70000969,Alumno969,Apellido969,3ro,B
+70000970,Alumno970,Núñez Ríos,4to,A
+70000971,Alumno971,Apellido971,5to,B
+70000972,Alumno972,Apellido972,3ro,A
+70000973,Ana Lucía,Apellido973,4to,B
+70000974,Alumno974,Apellido974,5to,A
+70000975,Alumno975,Núñez Ríos,3ro,B
+70000976,Alumno976,Apellido976,4to,A
+70000977,Alumno977,Apellido977,5to,B
+70000978,Alumno978,Apellido978,3ro,A
+70000979,Alumno979,Apellido979,4to,B
+70000980,Ana Lucía,Núñez Ríos,5to,A
+70000981,Alumno981,Apellido981,3ro,B
+70000982,Alumno982,Apellido982,4to,A
+70000983,Alumno983,Apellido983,5to,B
+70000984,Alumno984,Apellido984,3ro,A
+70000985,Alumno985,Núñez Ríos,4to,B
+70000986,Alumno986,Apellido986,5to,A
+70000987,Ana Lucía,Apellido987,3ro,B
+70000988,Alumno988,Apellido988,4to,A
+70000989,Alumno989,Apellido989,5to,B
+70000990,Alumno990,Núñez Ríos,3ro,A
+70000991,Alumno991,Apellido991,4to,B
+70000992,Alumno992,Apellido992,5to,A
+70000993,Alumno993,Apellido993,3ro,B
+70000994,Ana Lucía,Apellido994,4to,A
+70000995,Alumno995,Núñez Ríos,5to,B
+70000996,Alumno996,Apellido996,3ro,A
+70000997,Alumno997,Apellido997,4to,B
+70000998,Alumno998,Apellido998,5to,A
+70000999,Alumno999,Apellido999,3ro,B
