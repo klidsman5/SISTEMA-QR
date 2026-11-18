@@ -124,6 +124,10 @@ description: "Task list for reportes y dashboard"
 - [X] T039 Unir `matriculas` por el `matricula_id` del registro en `v_asistencia_detalle` en `supabase/migrations/20261117050300_vista_matricula_historica.sql`
 - [ ] T040 Incluir usuario, alcance, rango y filtros en la clave de caché del dashboard en `app/api/dashboard/summary/route.ts`
 - [ ] T041 [P] Probar que un reporte histórico conserva el grado y la sección del evento en `tests/unit/reportes/matricula-historica.test.ts`
+- [X] T042 [US2] Crear la pantalla de reportes del Docente en `app/(docente)/aula/reportes/page.tsx`, con filtros por curso, fecha y estado.
+- [X] T043 [US1] Forzar `nivel = aula` para el rol Docente en `app/api/reports/attendance/route.ts`, aunque la URL pida otro nivel.
+- [X] T044 [US2] Añadir el enlace "Reportes" a la navegación del área de aula en `app/(docente)/layout.tsx`.
+- [ ] T045 [P] Probar que un Docente no puede obtener registros de puerta ni de cursos ajenos en `tests/integration/reportes-docente.test.ts`.
 
 ---
 
@@ -160,3 +164,4 @@ description: "Task list for reportes y dashboard"
   - **T033**: pantalla de auditoría de reportes.
   - **T035, T036**: revisión visual y quickstart.
   - **T040, T041**: caché por rango y prueba de matrícula histórica.
+  - **T045**: prueba de integración de que el Docente no obtiene puerta ni cursos ajenos (la regla ya se aplica en `forzarAlcanceRol` y en RLS).

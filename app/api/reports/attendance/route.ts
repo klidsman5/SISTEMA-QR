@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { getPerfilActual } from "@/lib/auth/require-role";
 import { createSupabaseServerClient } from "@/lib/supabase/server";
-import { filtrosDesdeParams, rangoPorDefecto } from "@/features/reportes/filters";
+import { filtrosDesdeParams, forzarAlcanceRol, rangoPorDefecto } from "@/features/reportes/filters";
 import { consultarDetalle } from "@/features/reportes/query";
 import { generarPdf, generarXlsx, type FilaReporte } from "@/lib/export/reportes";
 
@@ -14,7 +14,8 @@ export async function GET(request: Request) {
   const url = new URL(request.url);
   const formato = url.searchParams.get("formato") === "pdf" ? "pdf" : "xlsx";
   const defaults = rangoPorDefecto();
-  const filtros = filtrosDesdeParams(url.searchParams);
+  // El alcance se impone en servidor: el Docente nunca recibe registros de puerta.
+  const filtros = forzarAlcanceRol(filtrosDesdeParams(url.searchParams), perfil.rol);
   if (!filtros.desde) filtros.desde = defaults.desde;
   if (!filtros.hasta) filtros.hasta = defaults.hasta;
 

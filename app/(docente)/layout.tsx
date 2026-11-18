@@ -33,6 +33,9 @@ export default async function DocenteLayout({ children }: { children: React.Reac
           <Link href="/aula/justificaciones" className="border-b-2 border-transparent px-4 py-3 text-sm font-medium text-slate-600 hover:border-teal-500 hover:text-teal-700">
             Justificaciones
           </Link>
+          <Link href="/aula/reportes" className="border-b-2 border-transparent px-4 py-3 text-sm font-medium text-slate-600 hover:border-teal-500 hover:text-teal-700">
+            Reportes
+          </Link>
         </div>
       </nav>
 

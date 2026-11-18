@@ -93,7 +93,7 @@ Cada reporte generado queda registrado con usuario, fecha, filtros y formato.
 
 - **FR-001**: El sistema MUST generar reportes en Excel (.xlsx) y PDF con el detalle de asistencia por rango de fechas.
 - **FR-002**: Los reportes MUST permitir filtrar por estudiante, grado, sección, curso, turno, nivel (Puerta o Aula) y estado (Puntual, Tardanza, Falta, Justificado).
-- **FR-003**: Cada reporte MUST respetar el alcance del rol: el Administrador ve todo, el Auxiliar sólo puerta, el Docente sólo sus cursos y secciones.
+- **FR-003**: Cada reporte MUST respetar el alcance del rol: el Administrador ve todo, el Auxiliar sólo puerta y el Docente sólo la asistencia de aula de los cursos que dicta. El Docente MUST poder generar su propio reporte sin depender del Administrador.
 - **FR-004**: El reporte MUST incluir fecha, hora, alumno, grado, sección, curso, nivel, estado y aprobador de la justificación cuando aplique.
 - **FR-005**: El archivo exportado MUST coincidir con los datos de la consulta en pantalla.
 - **FR-006**: Cada generación de reporte MUST registrarse en auditoría con usuario, fecha, filtros y formato.
@@ -103,6 +103,8 @@ Cada reporte generado queda registrado con usuario, fecha, filtros y formato.
 - **FR-010**: El sistema MUST mostrar un estado vacío claro cuando un filtro no devuelve resultados.
 - **FR-011**: El sistema MUST permitir exportar sólo si hay resultados o si el usuario confirma una exportación vacía.
 - **FR-012**: Todo reporte histórico MUST mostrar el grado y la sección que el alumno tenía en la fecha del registro, no los vigentes al momento de generar el reporte.
+- **FR-013**: Los reportes del Docente MUST limitarse al nivel Aula y a sus cursos asignados; MUST NOT incluir registros de puerta ni cursos ajenos, aunque el usuario manipule los filtros de la URL.
+- **FR-014**: El Docente MUST disponer de una pantalla propia de reportes dentro del área de aula, con los mismos filtros y formatos que el Administrador pero acotados a su alcance.
 
 ### Key Entities
 

@@ -10,6 +10,8 @@
 
 **Trazabilidad**: los identificadores `FR-###` y `SC-###` son locales. Fuera de esta spec se citan como `005/FR-###`.
 
+**Independencia de niveles**: la asistencia de aula pertenece al Docente del curso y es un registro distinto de la entrada de puerta. No se comparte, no se mezcla en reportes y no depende de que el alumno haya marcado en la puerta.
+
 ## Alcance
 
 Registro de asistencia por curso dentro de una sesión de clase, con la credencial impresa del alumno. Incluye apertura y cierre de sesión y marcado de faltas. No incluye puerta, justificaciones ni el envío de mensajes.
@@ -95,6 +97,8 @@ El Docente sólo puede abrir sesiones de los cursos que tiene asignados y en su 
 - **FR-014**: El sistema MUST cerrar automáticamente las sesiones abiertas al terminar el bloque horario (`hora_inicio + duracion_bloque_min`).
 - **FR-015**: Si una credencial se registra después de que el cierre de sesión marcó falta, el sistema MUST actualizar esa fila con la asistencia real, sin rechazar el evento ni crear una segunda fila, y MUST dejar constancia en auditoría del estado anterior.
 - **FR-016**: Una entrada de aula MUST NOT actualizar ni borrar la asistencia de puerta del mismo alumno.
+- **FR-017**: La asistencia de aula MUST ser propiedad del Docente de ese curso y MUST registrarse de forma independiente de la asistencia de puerta. Un Docente MUST NOT ver ni incluir registros de puerta en sus listas, reportes o métricas.
+- **FR-018**: El Docente MUST poder generar sus propios reportes de asistencia limitados a los cursos que dicta; el reporte MUST indicar el curso y MUST NOT mezclar el nivel de puerta.
 
 ### Key Entities
 

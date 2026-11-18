@@ -30,6 +30,23 @@ export function rangoPorDefecto(): { desde: string; hasta: string } {
   return { desde: desde.toISOString().slice(0, 10), hasta: hasta.toISOString().slice(0, 10) };
 }
 
+/**
+ * El Docente sólo puede consultar la asistencia de aula de sus cursos.
+ * Se fuerza el nivel para que un cambio manual en la URL no exponga puerta.
+ */
+export function forzarAlcanceRol(
+  filtros: FiltrosReporte,
+  rol: "administrador" | "auxiliar_puerta" | "docente",
+): FiltrosReporte {
+  if (rol === "docente") {
+    return { ...filtros, nivel: "aula" };
+  }
+  if (rol === "auxiliar_puerta") {
+    return { ...filtros, nivel: "puerta" };
+  }
+  return filtros;
+}
+
 export function porcentaje(parte: number, total: number): number {
   if (total <= 0) return 0;
   return Math.round((parte / total) * 1000) / 10;

@@ -69,6 +69,11 @@ tests/          unitarias, integración, RLS y E2E
 specs/          especificaciones, planes y tareas (SDD)
 ```
 
+## Separación de niveles
+
+La asistencia de puerta y la de aula son registros independientes. El Docente sólo ve y reporta la
+asistencia de aula de los cursos que dicta; el Auxiliar sólo ve puerta. El Administrador ve ambos.
+
 ## Seguridad
 
 - RLS en todas las tablas; el Administrador es el único que escribe estructura y cuentas.
